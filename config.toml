@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://shenoybr.github.io/hugo-goa-demo/"
+baseurl = "https://hugo-demo.atouati.com"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -9,22 +9,22 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Erlich Bachman"
-title = "Erlich Bachman"
+author = "Adil Touati"
+title = "Adil Touatl"
 
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
 googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Erlich Bachman"
-intro = "Startup Guru Extraordinaire"
-description = "Now @Pied Piper. Previously @Hacker Hostel, @Bachmanity and @Aviato. <br/> \"What is F times 5? It's Fleventy-five.\""
-authorimage = "headshot.jpg"
+author = "Adil Touati"
+intro = "This is a Hugo demo Site"
+description = "Github and Hugo"
+authorimage = "adeel_avatar.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
@@ -34,43 +34,44 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
-github = "<username>"
-instagram = "<username>"
-xing = "<username>"
-linkedin = "<username>"
-twitter = "<username>"
-facebook = "<username>"
-google = "<username>"
-googlescholar = "<account_id>"
-stackoverflow = "<username>"
-lastfm = "<username>"
-goodreads = "<username>"
-gitlab = "<username>"
-bitbucket = "<username>"
-fivehundredpx = "<username>"
-flickr = "<username>"
-foursquare = "<username>"
-hackernews = "<username>"
-kickstarter = "<username>"
-patreon = "<username>"
-pintrest = "<username>"
-steam = "<username>"
-reddit = "<username>"
-snapchat = "<username>"
-youtube = "<channelid>"
-keybase = "<username>"
-twitch = "<username>"
-soundcloud = "<username>"
-tumblr = "<username>"
-strava = "<username>"
-skype = "<username>"
-telegram = "<username>"
-whatsapp = "<username>"
-email = "you@example.com"
+github = "adeelku"
+linkedin = "adil-touati-377b9a"
+twitter = "adiltouati"
+email = "askadil@atouati.com"
+# instagram = "<username>"
+# xing = "<username>"
+# facebook = "<username>"
+# google = "<username>"
+# googlescholar = "<account_id>"
+# stackoverflow = "<username>"
+# lastfm = "<username>"
+# goodreads = "<username>"
+# gitlab = "<username>"
+# bitbucket = "<username>"
+# fivehundredpx = "<username>"
+# flickr = "<username>"
+# foursquare = "<username>"
+# hackernews = "<username>"
+# kickstarter = "<username>"
+# patreon = "<username>"
+# pintrest = "<username>"
+# steam = "<username>"
+# reddit = "<username>"
+# snapchat = "<username>"
+# youtube = "<channelid>"
+# keybase = "<username>"
+# twitch = "<username>"
+# soundcloud = "<username>"
+# tumblr = "<username>"
+# strava = "<username>"
+# skype = "<username>"
+# telegram = "<username>"
+# whatsapp = "<username>"
+
 
 ## Extras
 [params.extra]
-copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2019. Adil Touati. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = true
 socialmarkup = true
@@ -88,8 +89,4 @@ displayrssicon = true
     identifier = "about"
     weight = 200
     url = "/about/"
-[[menu.main]]
-    name = "coderag"
-    identifier = "coderag"
-    weight = 300
-    url = "/coderag/"
+
