@@ -24,7 +24,7 @@ enableRobotsTXT = true
 author = "Adil Touati"
 intro = "This is a Hugo demo Site"
 description = "Github and Hugo"
-authorimage = "adeel_avatar.jpg"
+authorimage = "avatar.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
