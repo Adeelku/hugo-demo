@@ -1,4 +1,4 @@
-# Hugo Goa Demo
+# Hugo Demo using Goa theme 
 
 Repo used for the "Let’s build a Static Website using Hugo!" blog post!
 
